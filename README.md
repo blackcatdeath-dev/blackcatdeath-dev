@@ -118,8 +118,8 @@ I'm a developer who enjoys turning ideas into clean, reliable products — from 
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/blackcatdeath">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=blackcatdeath&count=5&unique=true" alt="Spotify recently played" />
+<a href="https://open.spotify.com/user/31htjmhodszyq4zimiwsshskr3oi">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31htjmhodszyq4zimiwsshskr3oi&count=5&unique=true" alt="Spotify recently played" />
 </a>
 
 </div>
