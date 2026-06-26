@@ -1,7 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=blackcatdeath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Web3%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+# `Black Cat Death`
+
+**Web & Software Developer · AI Engineer · Web3 Enthusiast**
 
 <a href="https://github.com/blackcatdeath-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+thoughtful+software+%F0%9F%92%BB;Engineering+with+AI+%F0%9F%A4%96;Exploring+the+decentralized+web+%E2%9B%93%EF%B8%8F;Always+learning%2C+always+shipping." alt="Typing SVG" />
