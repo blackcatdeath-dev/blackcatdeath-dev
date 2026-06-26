@@ -116,8 +116,8 @@ I'm a developer who enjoys turning ideas into clean, reliable products — from 
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/Pijee">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pijee&count=5&unique=true" alt="Spotify recently played" />
+<a href="https://open.spotify.com/user/blackcatdeath">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=blackcatdeath&count=5&unique=true" alt="Spotify recently played" />
 </a>
 
 </div>
@@ -129,10 +129,10 @@ I'm a developer who enjoys turning ideas into clean, reliable products — from 
 
 <div align="center">
 
-<a href="https://t.me/blackcatdeath"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/0xblackcatdeath"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discord.com/users/blackcatdeath"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://t.me/blackcatdeath969"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:blackcatdeath969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/br4in34t3r"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://discord.com/users/blackcatdeath_dev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
